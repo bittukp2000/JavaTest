@@ -16,5 +16,6 @@ public class reverseString {
     }
     for (char c : temparray)
      System.out.print(c);
-    System.out.println("test");
+    //test
+    System.out.println("test GitHub Commit");
    }}
